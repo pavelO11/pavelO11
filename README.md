@@ -1,4 +1,5 @@
 Hi 👋🏻 My name is Pavel !
+A passionate software developer from Russia 🇷🇺
 ========================
 
 Front-End Developer, JavaScript, TypeScript. Moving forward 18 y.o. 👨🏼‍💻🎯📈🫀🏋🏼💸
