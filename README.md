@@ -25,5 +25,5 @@ I use such frameworks as React, Next, Vue, Nuxt, all the time I try to go deeper
 
 ### Playground
 <section aling='center'>
-  <img alt='snake eating my contributions' src='https://raw.githubusercontent.com/p1baby/p1baby/output/github-contributions-grid-snake.svg' />
+  
 </section>
