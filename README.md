@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=32&pause=1000&color=E1959F&random=false&width=435&lines=Hi+there+!+%F0%9F%91%8B%F0%9F%8F%BB;My+name+is+Pavel.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=31&duration=2300&pause=500&color=E1959F&random=false&width=550&height=80&lines=Hi+there+!+%F0%9F%91%8B%F0%9F%8F%BB;Welcome+to+my+GitHub+profile.;My+name+is+Pavel%2C+Front-End+Dev+%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 ========================
 
 Front-End Developer, JavaScript, React JS. Moving forward 18 y.o. 👨🏼‍💻🎯📈🫀🏋🏼💸
