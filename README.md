@@ -1,4 +1,4 @@
-Hi 👋 My name is Pavel !
+Hi 👋🏻 My name is Pavel !
 ========================
 
 Front-End Developer, JavaScript, TypeScript. Moving forward 18 y.o. 👨🏼‍💻🎯📈🫀🏋🏼💸
