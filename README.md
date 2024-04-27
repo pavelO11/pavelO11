@@ -5,7 +5,7 @@ Front-End Developer, JavaScript, TypeScript. Moving forward 18 y.o. 👨🏼‍�
 ---------------------------------------------------------------------------------------
 
 ### About me
-A passionate software developer from Russia 🇷🇺
+A passionate developer from Russia 🇷🇺
 
 I am engaged in commercial development of various web applications, projects, I write both Front-End and Back-End.
 
