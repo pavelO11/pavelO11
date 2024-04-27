@@ -21,7 +21,7 @@ I use such frameworks as React, Next, Vue, Nuxt, all the time I try to go deeper
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,vite,vue,nextjs,nuxtjs,docker,postgres,nginx,postman,bootstrap,sass,tailwind,github" />
-    <img src="https://skillicons.dev/icons?i=git,notion,vscode,webstorm,figma,yarn" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,vite,vue,nextjs,nuxtjs,postgres,nginx,bootstrap,sass,tailwind,github" />
+    <img src="https://skillicons.dev/icons?i=git,postman,docker,notion,vscode,webstorm,figma,yarn" />
   </a>
 </p>
