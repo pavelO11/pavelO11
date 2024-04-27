@@ -8,9 +8,10 @@ I am engaged in commercial development of various web applications, projects, I 
 I use such frameworks as React, Next, Vue, Nuxt, all the time I try to go deeper into the studied technologies and discover new ones. I am always improving my skills in JavaScript, TypeScript, studying them in depth.
 
 *   🌍  I'm based in Rusiaa
-*   ✉️  You can contact me at [p1babywork@gmail.com](mailto:p1babywork@gmail.com)
+*   📲  You can contact me by writing to me in [Telegram](https://t.me/p11baby)
+*   📩  You can reach me at my work email address [p1babywork@gmail.com](mailto:p1babywork@gmail.com)
 
-### Skills 
+### Some Skills 
 
 
 
