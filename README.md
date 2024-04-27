@@ -1,4 +1,4 @@
-Hi 👋🏻 My name is Pavel !
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=34&pause=1000&color=E1959F&random=false&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB+there+!;My+name+is+Pavel.)](https://git.io/typing-svg)
 ========================
 
 Front-End Developer, JavaScript, TypeScript. Moving forward 18 y.o. 👨🏼‍💻🎯📈🫀🏋🏼💸
@@ -12,8 +12,8 @@ I am engaged in commercial development of various web applications, projects, I 
 I use such frameworks as React, Next, Vue, Nuxt, all the time I try to go deeper into the studied technologies and discover new ones. I am always improving my skills in JavaScript, TypeScript, studying them in depth.
 
 ### Contacts
-*   📲  You can contact me by writing to me in [Telegram](https://t.me/p11baby)
-*   📩  You can reach me at my work email address [p1babywork@gmail.com](mailto:p1babywork@gmail.com)
+*  📲 You can contact me by writing to me in [Telegram](https://t.me/p11baby)
+*  📩 You can reach me at my work email address [p1babywork@gmail.com](mailto:p1babywork@gmail.com)
 
 ### Some Skills 
 
