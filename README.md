@@ -1,7 +1,16 @@
 Hi 👋 My name is Pavel !
-========================Front-End Developer, JavaScript, TypeScript. Moving forward 18 y.o. 👨🏼‍💻🎯📈🫀🏋🏼💸---------------------------------------------------------------------------------------I am engaged in commercial development of various web applications, projects, I write both Front-End and Back-End. I use such frameworks as React, Next, Vue, Nuxt, all the time I try to go deeper into the studied technologies and discover new ones. I am always improving my skills in JavaScript, TypeScript, studying them in depth.* 🌍  I'm based in Rusiaa* ✉️  You can contact me at [p1babywork@gmail.com](mailto:p1babywork@gmail.com)
+========================
 
-### Skills
+Front-End Developer, JavaScript, TypeScript. Moving forward 18 y.o. 👨🏼‍💻🎯📈🫀🏋🏼💸
+---------------------------------------------------------------------------------------
+
+I am engaged in commercial development of various web applications, projects, I write both Front-End and Back-End. I use such frameworks as React, Next, Vue, Nuxt, all the time I try to go deeper into the studied technologies and discover new ones. I am always improving my skills in JavaScript, TypeScript, studying them in depth.
+
+*   🌍  I'm based in Rusiaa
+*   ✉️  You can contact me at [p1babywork@gmail.com](mailto:p1babywork@gmail.com)
+
+### Skills 
+
 
 
 <p align="left">
