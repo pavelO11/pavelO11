@@ -25,5 +25,5 @@ I use such frameworks as React, Next, Vue, Nuxt, all the time I try to go deeper
 
 ### Playground
 <section aling='center'>
-  
+  coming soon
 </section>
