@@ -4,18 +4,18 @@
 Front-End Developer, JavaScript, React JS. Moving forward 18 y.o. 👨🏼‍💻🎯📈🫀🏋🏼💸
 ---------------------------------------------------------------------------------------
 
-### About me
+### About me 🙆🏼‍♂️
 A passionate developer from Russia 🇷🇺
 
 I am engaged in commercial development of various web application projects, I write both Front-End and Back-End.
 
 I use such frameworks as React, Next, Vue, Nuxt, all the time I try to go deeper into the studied technologies and discover new ones. I am always improving my skills in JavaScript, TypeScript, studying them in depth.
 
-### Contacts
+### Contacts ☎️
 *  📲 You can contact me by writing to me in [Telegram](https://t.me/p11baby)
 *  📩 You can reach me at my work email address [p1babywork@gmail.com](mailto:p1babywork@gmail.com)
 
-### Some Skills 
+### Some Skills ♟
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,vite,vue,nextjs,nuxtjs,postgres,nginx,bootstrap,sass,tailwind,github" />
@@ -23,7 +23,10 @@ I use such frameworks as React, Next, Vue, Nuxt, all the time I try to go deeper
   </a>
 </p>
 
-### Playground
+### Working on... 📈 
+Currently working on a pet-project web app for my designer friend, [repository](https://github.com/p1baby/StarflowDesign-Web-App) (comits every week)
+
+### Playground 🕹
 <section aling='center'>
   coming soon
 </section>
