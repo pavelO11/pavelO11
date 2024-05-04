@@ -11,6 +11,8 @@ I am engaged in commercial development of various web application projects, I wr
 
 I use such frameworks as React, Next, Vue, Nuxt, all the time I try to go deeper into the studied technologies and discover new ones. I am always improving my skills in JavaScript, TypeScript, studying them in depth.
 
+My own [Telegram channel](https://t.me/p1WebDev) where you can find out more about me
+
 ### Contacts ☎️
 *  📲 You can contact me by writing to me in [Telegram](https://t.me/p11baby)
 *  📩 You can reach me at my work email address [p1babywork@gmail.com](mailto:p1babywork@gmail.com)
