@@ -7,9 +7,10 @@ Front-End Developer, JavaScript, React JS. Moving forward 18 y.o. 👨🏼‍�
 ### About me 🙆🏼‍♂️
 A passionate developer from Russia 🇷🇺
 
-I am engaged in commercial development of various web application projects, I write both Front-End and Back-End.
+I am engaged in commercial development of various web application projects, I write both Front-End and Back-End.<br>
 
-I use such frameworks as React, Next, Vue, Nuxt, all the time I try to go deeper into the studied technologies and discover new ones. I am always improving my skills in JavaScript, TypeScript, studying them in depth.
+I use such frameworks as React, Next, Vue, Nuxt, all the time I try to go deeper into the studied technologies and discover new ones.<br>
+I am always improving my skills in JavaScript, TypeScript, studying them in depth.<br>
 
 My own [Telegram channel](https://t.me/p1WebDev) where you can find out more about me!
 
@@ -25,7 +26,13 @@ My own [Telegram channel](https://t.me/p1WebDev) where you can find out more abo
   </a>
 </p>
 
-### Working on... 📈 
+### CodeWars 👨🏼‍🎓
+I strive to utilize my knowledge of JavaScript not only in my professional work, but also in competitive programming,<br> thereby constantly improving and refining my programming skills!
+<p align="center">
+   <img src="https://www.codewars.com/users/p1baby/badges/large" />
+</p>
+
+### Working on... 📊
 Currently working on a pet-project web app for my designer friend, [repository](https://github.com/p1baby/StarflowDesign-Web-App) (comits every week)
 
 ### Playground 🕹
