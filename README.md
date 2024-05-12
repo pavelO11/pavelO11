@@ -28,7 +28,7 @@ My own [Telegram channel](https://t.me/p1WebDev) where you can find out more abo
 
 ### CodeWars 👨🏼‍🎓
 I strive to utilize my knowledge of JavaScript not only in my professional work, but also in competitive programming,<br> thereby constantly improving and refining my programming skills!
-<p align="center">
+<p>
    <img src="https://www.codewars.com/users/p1baby/badges/large" />
 </p>
 
