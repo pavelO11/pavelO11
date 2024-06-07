@@ -4,7 +4,7 @@
 Front-End Developer, JavaScript, React JS. Moving forward 18 y.o. 👨🏼‍💻🎯📈🫀🏋🏼💸
 ---------------------------------------------------------------------------------------
 
-### About me 🙆🏼‍♂️
+## About me 🙆🏼‍♂️
 A passionate developer from Russia 🇷🇺
 
 I am engaged in commercial development of various web application projects, I write both Front-End and Back-End.<br>
@@ -14,11 +14,11 @@ I am always improving my skills in JavaScript, TypeScript, studying them in dept
 
 My own [Telegram channel](https://t.me/p1WebDev) where you can find out more about me!
 
-### Contacts ☎️
+## Contacts ☎️
 *  📲 You can contact me by writing to me in [Telegram](https://t.me/p11baby)
 *  📩 You can reach me at my work email address [p1babywork@gmail.com](mailto:p1babywork@gmail.com)
 
-### Some Skills ♟
+## Some Skills ♟
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,vite,vue,nextjs,nuxtjs,postgres,nginx,bootstrap,sass,tailwind,github" />
@@ -26,16 +26,16 @@ My own [Telegram channel](https://t.me/p1WebDev) where you can find out more abo
   </a>
 </p>
 
-### CodeWars 👨🏼‍🎓
+## CodeWars 👨🏼‍🎓
 I strive to utilize my knowledge of JavaScript not only in my professional work, but also in competitive programming,<br> thereby constantly improving and refining my programming skills!
 <p>
    <img src="https://www.codewars.com/users/p1baby/badges/large" />
 </p>
 
-### Working on... 📊
+## Working on... 📊
 Currently working on a pet-project web app for my designer friend, [repository](https://github.com/p1baby/StarflowDesign-Web-App) (comits every week)
 
-### Playground 🕹
+## Playground 🕹
 <section aling='center'>
   coming soon
 </section>
