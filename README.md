@@ -26,10 +26,10 @@ My own [Telegram channel](https://t.me/p1WebDev) where you can find out more abo
   </a>
 </p>
 
-## CodeWars 👨🏼‍🎓
-I strive to utilize my knowledge of JavaScript not only in my professional work, but also in competitive programming,<br> thereby constantly improving and refining my programming skills!
+## CodeWars, road to 1 kuy 🏅
+I strive to use my knowledge of JavaScript and other Programming Languages not only in my professional work, but also in competitive programming,<br> thus constantly improving and honing my programming skills!
 <p>
-   <img src="https://www.codewars.com/users/p1baby/badges/large" />
+   <img src="https://www.codewars.com/users/Pavel%20O/badges/large" />
 </p>
 
 ## Working on... 📊
