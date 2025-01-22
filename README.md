@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=31&duration=2300&pause=500&color=91FF89&random=false&width=550&lines=Hi+there+!+%F0%9F%91%8B%F0%9F%8F%BB;Welcome+to+my+GitHub+profile.;My+name+is+Pavel%2C+Front-End+Dev+%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=31&duration=2300&pause=500&color=91FF89&random=false&width=550&lines=Hi+there+!+%F0%9F%91%8B%F0%9F%8F%BB;Welcome+to+my+GitHub+profile.;My+name+is+Pavel%2C+Web+Dev+%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 ========================
 
-Front-End Developer, JavaScript, React JS. Moving forward 👨🏼‍💻🎯📈🏋🏼💸
+Front/Back-End Developer, JavaScript, TypeScript. Moving forward 👨🏼‍💻🎯📈🏋🏼💸
 ---------------------------------------------------------------------------------------
 
 ## About me 🙆🏼‍♂️
@@ -15,7 +15,7 @@ I am always improving my skills in JavaScript, TypeScript, studying them in dept
 My own [Telegram channel](https://t.me/p1WebDev) where you can find out more about me!
 
 ## Contacts ☎️
-*  📲 You can contact me by writing to me in [Telegram](https://t.me/p11baby)
+*  📲 You can contact me by writing to me in [Telegram](https://t.me/pavelO11)
 *  📩 You can reach me at my work email address [p1babywork@gmail.com](mailto:p1babywork@gmail.com)
 
 ## Some Skills ♟
@@ -33,7 +33,7 @@ I strive to use my knowledge of JavaScript and other Programming Languages not o
 </p>
 
 ## Working on... 📊
-Currently working on a pet-project web app for my designer friend, [repository](https://github.com/p1baby/StarflowDesign-Web-App) (comits every week)
+Currently working on a pet-project web app for my designer friend, [repository](https://github.com/pavelO11/StarflowDesign-Web-App) (comits every week)
 
 ## Playground 🕹
 <section aling='center'>
