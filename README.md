@@ -22,7 +22,7 @@ A passionate developer from Russia 🇷🇺
 ## CodeWars, road to 1 kuy by the end of 2025 🏅
 I strive to use my knowledge of Python and other Programming Languages not only in my professional work, but also in competitive programming,<br> thus constantly improving and honing my programming skills!
 <p>
-   <img src="https://www.codewars.com/users/Pavel%20O/badges/large" />
+   <img src="https://www.codewars.com/users/Pavel%20O1/badges/large" />
 </p>
 
 ## Working on... 📊
