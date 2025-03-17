@@ -24,11 +24,3 @@ I strive to use my knowledge of Python and other Programming Languages not only 
 <p>
    <img src="https://www.codewars.com/users/Pavel%20O1/badges/large" />
 </p>
-
-## Working on... 📊
-Currently working on a pet-project web app for my designer friend, [repository](https://github.com/pavelO11/StarflowDesign-Web-App) (comits every week)
-
-## Playground 🕹
-<section aling='center'>
-  coming soon
-</section>
