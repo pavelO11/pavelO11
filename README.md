@@ -5,7 +5,8 @@ Python Developer 🐍
 ---------------------------------------------------------------------------------------
 
 ## About me 🙆🏼‍♂️
-A passionate developer from Russia 🇷🇺
+A passionate developer from Russia 🇷🇺<br/>
+Trying to be better every day, I will definitely make it to the top, no matter what the cost.
 
 ## Contacts ☎️
 *  📲 You can contact me by writing to me in [Telegram](https://t.me/pavelO11)
