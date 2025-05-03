@@ -20,7 +20,7 @@ Trying to be better every day, I will definitely make it to the top, no matter w
   </a>
 </p>
 
-## CodeWars, road to 1 kuy by the end of 2025 🏅
+## CodeWars, road to 2 kuy by the end of 2025 🏅
 I strive to use my knowledge of Python and other Programming Languages not only in my professional work, but also in competitive programming,<br> thus constantly improving and honing my programming skills!
 <p>
    <img src="https://www.codewars.com/users/Pavel%20O1/badges/large" />
