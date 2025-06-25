@@ -15,8 +15,8 @@ Trying to be better every day, I will definitely make it to the top, no matter w
 ## Some Skills ♟
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,postgres,nginx,bootstrap,sass,tailwind,github" />
-    <img src="https://skillicons.dev/icons?i=postman,docker,notion,vscode,pycharm,webstorm,figma" />
+    <img src="https://skillicons.dev/icons?i=python,ts,js,react,postgres,bootstrap,sass,github" />
+    <img src="https://skillicons.dev/icons?i=postman,docker,figma,bash" />
   </a>
 </p>
 
