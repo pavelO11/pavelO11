@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=31&duration=2300&color=00F702&width=435&lines=OFF+THE+RADAR;ON+THE+MISSON)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=31&duration=2300&color=91FF89FF&width=435&lines=OFF+THE+RADAR;ON+THE+MISSON)](https://git.io/typing-svg)
 ========================
 
 🤫🤫🤫🤫🤫🤫🤫
