@@ -1,27 +1,26 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=31&duration=2300&pause=500&color=91FF89&random=false&width=550&lines=Hi+there+!+%F0%9F%91%8B%F0%9F%8F%BB;Welcome+to+my+GitHub.;My+name+is+Pavel%2C+Python+Dev+%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=31&duration=2300&color=00F702&width=435&lines=OFF+THE+RADAR;ON+THE+MISSON)](https://git.io/typing-svg)
 ========================
 
-Python Developer 🐍
+🤫🤫🤫🤫🤫🤫🤫
 ---------------------------------------------------------------------------------------
 
 ## About me 🙆🏼‍♂️
-A passionate developer from Russia 🇷🇺<br/>
+A passionate developer from Saint-Petersburg 🇷🇺<br/>
 Trying to be better every day, I will definitely make it to the top, no matter what the cost.
 
 ## Contacts ☎️
-*  📲 You can contact me by writing to me in [Telegram](https://t.me/pavelO11)
 *  📩 You can reach me at my work email address [pavelo11work@gmail.com](mailto:pavelo11work@gmail.com)
 
 ## Some Skills ♟
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ts,js,react,postgres,bootstrap,sass,github" />
+    <img src="https://skillicons.dev/icons?i=python,ts,js,go,react,postgres,bootstrap,sass,github" />
     <img src="https://skillicons.dev/icons?i=postman,docker,figma,bash" />
   </a>
 </p>
 
 ## CodeWars, road to 2 kuy by the end of 2025 🏅
-I strive to use my knowledge of Python and other Programming Languages not only in my professional work, but also in competitive programming,<br> thus constantly improving and honing my programming skills!
+I strive to use my knowledge in Programming Languages not only in my professional work, but also in competitive programming,<br> thus constantly improving and honing my programming skills!
 <p>
    <img src="https://www.codewars.com/users/Pavel%20O1/badges/large" />
 </p>
