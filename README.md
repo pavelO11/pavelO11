@@ -4,9 +4,9 @@
 🤫🤫🤫🤫🤫🤫🤫
 ---------------------------------------------------------------------------------------
 
-## About me 🙆🏼‍♂️
+## About me 🥷🏻
 A passionate developer from Saint-Petersburg 🇷🇺<br/>
-Trying to be better every day, I will definitely make it to the top, no matter what the cost.
+Plan. Action. Win. 
 
 ## Contacts ☎️
 *  📩 You can reach me at my work email address [pavelo11work@gmail.com](mailto:pavelo11work@gmail.com)
