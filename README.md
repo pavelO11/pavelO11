@@ -14,7 +14,8 @@ Plan. Action. Win.
 ## Some Skills ♟
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,python,ts,js,docker,postgres" />
+    <img src="https://skillicons.dev/icons?i=go,python,ts,js,docker,postgres" /><br/>
+    <img src="https://skillicons.dev/icons?i=vue,pinia,nuxt" />
   </a>
 </p>
 
